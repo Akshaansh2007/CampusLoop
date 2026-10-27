@@ -4,9 +4,10 @@
 
 CampusLoop is a full-stack web application designed to help students buy and sell second-hand items within their campus community. It provides a centralized marketplace where students can browse listings, discover items, publish their own listings, manage their sales, and contact sellers directly.
 
+## **Demo video**:
+-  [CampusLoop](https://drive.google.com/file/d/1-2XVAXWnwtaoKmXggR24DLLWw-f4K4M3/view?usp=drive_link)
 ## Live Application
 
-- **Demo video:** [CampusLoop](https://drive.google.com/file/d/1-2XVAXWnwtaoKmXggR24DLLWw-f4K4M3/view?usp=drive_link)
 - **Website:** [CampusLoop](https://campusloop-frontend.onrender.com)
 - **GitHub Repository:** [Akshaansh2007/CampusLoop](https://github.com/Akshaansh2007/CampusLoop)
 
