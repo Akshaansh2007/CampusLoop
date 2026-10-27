@@ -6,6 +6,7 @@ CampusLoop is a full-stack web application designed to help students buy and sel
 
 ## Live Application
 
+- **Demo video:** [CampusLoop](https://drive.google.com/file/d/1-2XVAXWnwtaoKmXggR24DLLWw-f4K4M3/view?usp=drive_link)
 - **Website:** [CampusLoop](https://campusloop-frontend.onrender.com)
 - **GitHub Repository:** [Akshaansh2007/CampusLoop](https://github.com/Akshaansh2007/CampusLoop)
 
